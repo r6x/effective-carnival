@@ -1,0 +1,3 @@
+/home/b22/Documents/work/effective-carnival/server/CMakeFiles/server.dir
+/home/b22/Documents/work/effective-carnival/server/CMakeFiles/edit_cache.dir
+/home/b22/Documents/work/effective-carnival/server/CMakeFiles/rebuild_cache.dir
